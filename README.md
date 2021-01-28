@@ -1,8 +1,8 @@
 # :man_technologist: Johnny Freire
 
 🎓 Recent Technologist in analysis systems development graduate from FATEC - PRESIDENTE PRUDENTE/SP
-Mobile Developer
-UI Designer [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge)](https://www.behance.net/gallery/103577747/Prototipos)
+- Mobile Developer
+- UI Designer [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge)](https://www.behance.net/gallery/103577747/Prototipos)
 
 
 ### Contact with me
