@@ -1,9 +1,8 @@
-### Hi, I'm Johnny 👋
+# :man_technologist: Johnny Freire
 
 🎓 Recent Technologist in analysis systems development graduate from FATEC - PRESIDENTE PRUDENTE/SP
 
 ### Contact with me
  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/johnnyfreire/)
-
-[Facebook](https://www.facebook.com/JohnnyGrunger)
+[![Facebook] ()](https://www.facebook.com/JohnnyGrunger)
