@@ -16,7 +16,7 @@
  
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 ![Android Studio](http://img.shields.io/badge/-Android%20Studio-green?style=flat&logo=android-studio&logoColor=ffffff)
-![X Code](http://img.shields.io/badge/-X%20Code-grey?style=flat&logo=x-code&logoColor=ffffff)
+![X Code](http://img.shields.io/badge/-X%20Code-grey?style=flat&logo=xcode&logoColor=ffffff)
 
 ## Design
 ![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat&logo=adobe-photoshop&logoColor=ffffff)
