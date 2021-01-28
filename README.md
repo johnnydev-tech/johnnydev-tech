@@ -5,4 +5,4 @@
 ### Contact with me
  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/johnnyfreire/)
-[![Facebook] ()](https://www.facebook.com/JohnnyGrunger)
+[![Facebook](https://www.facebook.com/originalphreak)](https://www.facebook.com/JohnnyGrunger)
