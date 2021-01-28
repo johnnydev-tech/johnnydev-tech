@@ -5,7 +5,7 @@
 - UI Designer [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge)](https://www.behance.net/gallery/103577747/Prototipos)
 
 ### Technologies and tools
-[![Dart](https://img.shields.io/badge/-Dart-0d91a3?&logo=dart)]()[![Flutter](https://img.shields.io/badge/-Flutter-5dcede?&logo=flutter)]()
+[![Dart](https://img.shields.io/badge/-Dart-0d91a3?&logo=dart)](https://dart.dev/)[![Flutter](https://img.shields.io/badge/-Flutter-5dcede?&logo=flutter)](https://flutter.dev/)
 
 ### Contact with me
  
