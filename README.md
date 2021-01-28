@@ -2,7 +2,7 @@
 
 🎓 Recent Technologist in analysis systems development graduate from FATEC - PRESIDENTE PRUDENTE/SP
 - Mobile Developer
-- UI Designer [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge)](https://www.behance.net/gallery/103577747/Prototipos)
+- UI Designer [![Portfolio](https://img.shields.io/badge/?style=flat-square&](https://www.behance.net/gallery/103577747/Prototipos)
 
 # Knowledges
 
