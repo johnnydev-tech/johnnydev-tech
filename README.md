@@ -1,8 +1,7 @@
 ### Hi there 👋
-
+[LinkedIn](https://www.linkedin.com/in/johnnyfreire/)
 <!--
 **JohnnyFreire97/JohnnyFreire97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[LinkedIn](https://www.linkedin.com/in/johnnyfreire/)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
