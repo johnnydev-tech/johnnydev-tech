@@ -4,7 +4,7 @@
 - Mobile Developer
 - UI Designer [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge)](https://www.behance.net/gallery/103577747/Prototipos)
 
-# :man_technologist: Knowledges
+# Knowledges
 
 ## Technologies and tools
 [![Dart](https://img.shields.io/badge/-Dart-0d91a3?&logo=dart)](https://dart.dev/)
