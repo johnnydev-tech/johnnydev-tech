@@ -1,4 +1,4 @@
-# :man_technologist: Johnny Freire
+# :man_technologist: Johnny DEV
 
 🎓 Recent Technologist in analysis systems development graduate from FATEC - PRESIDENTE PRUDENTE/SP
 - Mobile Developer
