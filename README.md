@@ -11,7 +11,7 @@
 [![Flutter](https://img.shields.io/badge/-Flutter-5dcede?style=flat&&logo=flutter)](https://flutter.dev/)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=ffffff)
 ![Php](https://img.shields.io/badge/-PHP-blue?style=flat&logo=php&logoColor=ffffff)
  
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
