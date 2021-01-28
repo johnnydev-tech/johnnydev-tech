@@ -12,6 +12,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+![Php](https://img.shields.io/badge/-PHP-blue?style=flat&logo=php)
  
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 ![VS Code](http://img.shields.io/badge/-Android%20Studio-ffffff?style=flat&logo=android-studio)
