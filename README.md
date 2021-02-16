@@ -31,4 +31,6 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/JohnnyGrunger)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/johnsfreire/)
 
-[![Johnny Freire](https://github-readme-stats.vercel.app/api/wakatime?username=JohnnyFreire97&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/JohnnyFreire97/JohnnyFreire97">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JohnnyFreire97&layout=compact&theme=material-palenight" />
+</a>
