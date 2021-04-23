@@ -32,5 +32,5 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/johnsfreire/)
 
 <a href="https://github.com/JohnnyFreire97/JohnnyFreire97">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JohnnyFreire97&layout=compact&theme=light" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JohnnyFreire97&layout=compact&theme=dark" />
 </a>
