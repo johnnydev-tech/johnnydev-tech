@@ -19,9 +19,9 @@
 ![X Code](http://img.shields.io/badge/-X%20Code-grey?style=flat&logo=xcode&logoColor=ffffff)
 
 ## Design
-![Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat&logo=adobe-photoshop&logoColor=ffffff)
-![Illustrator](http://img.shields.io/badge/-Abode%20Illustrator-FC8F30?style=flat&logo=adobe-illustrator&logoColor=ffffff)
-![XD](http://img.shields.io/badge/-Abode%20XD-fe61f6?style=flat&logo=adobe-XD&logoColor=ffffff)
+![Photoshop](http://img.shields.io/badge/-Adobe%20Photoshop-26C9FF?style=flat&logo=adobe-photoshop&logoColor=ffffff)
+![Illustrator](http://img.shields.io/badge/-Adobe%20Illustrator-FC8F30?style=flat&logo=adobe-illustrator&logoColor=ffffff)
+![XD](http://img.shields.io/badge/-Adobe%20XD-fe61f6?style=flat&logo=adobe-XD&logoColor=ffffff)
 ![Figma](http://img.shields.io/badge/-Figma-30333c?style=flat&logo=figma&logoColor=ffffff)
 
 
