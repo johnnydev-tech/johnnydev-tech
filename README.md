@@ -1,6 +1,6 @@
 # :man_technologist: Johnny DEV
 
-🎓 Recent Technologist in Systems Analysis and Development graduate from FATEC - PRESIDENTE PRUDENTE/SP
+🎓 Graduate(MBE) student in Mobile Software Engineering
 - Mobile Developer
 - UI Designer [![Portfolio](https://img.shields.io/badge/-Portfolio-black)](https://www.behance.net/gallery/103577747/Prototipos)
 
