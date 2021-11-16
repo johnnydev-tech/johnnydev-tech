@@ -1,4 +1,5 @@
-# :man_technologist: Johnny DEV
+# <img width="30" src="https://i.ibb.co/fDZ4fjd/flutter-1.png"/> Johnny Dev
+<img src="https://i.ibb.co/7z05TtJ/245768624-4435553163201650-2121253259480156980-n.png"/>
 
 <a href="https://github.com/JohnnyToth">
  Professional Profile
@@ -36,5 +37,5 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/johnsfreire/)
 
 <a href="https://github.com/JohnnyFreire97/JohnnyFreire97">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JohnnyFreire97&layout=compact&theme=dark" />
+  <img align="middle" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JohnnyFreire97&layout=compact&theme=dark" />
 </a>
