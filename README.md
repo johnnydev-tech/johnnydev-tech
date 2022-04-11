@@ -29,6 +29,3 @@
  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/johnnyfreire/)
 
-<a href="https://github.com/Johnnyfdev/Johnnyfdev">
-  <img align="middle" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Johnnyfdev&layout=compact&theme=dark" />
-</a>
