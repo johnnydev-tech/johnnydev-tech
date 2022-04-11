@@ -1,8 +1,9 @@
 # <img width="30" src="https://i.ibb.co/fDZ4fjd/flutter-1.png"/> Johnny Dev
 <img src="https://i.ibb.co/7z05TtJ/245768624-4435553163201650-2121253259480156980-n.png"/>
 
-- Mobile Developer
+- Mobile Developer [![Site em desenvolvimento](https://img.shields.io/badge/-Portfolio-black)](https://johnnyfdev.github.io/johnnydev_page/)
 - UI Designer [![Portfolio](https://img.shields.io/badge/-Portfolio-black)](https://www.behance.net/gallery/103577747/Prototipos)
+
 
 
 ## Technologies and tools
@@ -28,6 +29,6 @@
  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/johnnyfreire/)
 
-<a href="https://github.com/JohnnyFreire97/JohnnyFreire97">
-  <img align="middle" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JohnnyFreire97&layout=compact&theme=dark" />
+<a href="https://github.com/Johnnyfdev/Johnnyfdev">
+  <img align="middle" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Johnnyfdev&layout=compact&theme=dark" />
 </a>
