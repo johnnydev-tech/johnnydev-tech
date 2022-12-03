@@ -18,8 +18,8 @@
 ![X Code](http://img.shields.io/badge/-X%20Code-grey?style=flat&logo=xcode&logoColor=ffffff)
 
 ## 🖋 Design
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 	
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JohnnyFdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
