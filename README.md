@@ -1,4 +1,4 @@
-# <img width="30" src="https://i.ibb.co/fDZ4fjd/flutter-1.png"/> Johnny Dev
+# <img width="40" src="https://i.ibb.co/hVG9sFF/logo-tech-12.png"/> Johnny Dev
 <img src="https://i.ibb.co/r2bh3RX/Linked-In-cover-2.png"/>
 
 - Mobile Developer [![Site em desenvolvimento](https://img.shields.io/badge/-Portfolio-black)](https://johnnyfdev.github.io/johnnydev_page/)
