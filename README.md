@@ -1,5 +1,3 @@
-# <img width="60" src="https://i.ibb.co/hVG9sFF/logo-tech-12.png"/>
-<img src="https://i.ibb.co/r2bh3RX/Linked-In-cover-2.png"/>
 
 - Mobile Developer [![Site em desenvolvimento](https://img.shields.io/badge/-Portfolio-black)](https://johnnyfdev.github.io/johnnydev_page/)
 - UI Designer [![Portfolio](https://img.shields.io/badge/-Portfolio-black)](https://www.behance.net/gallery/103577747/UI-Drawing-to-Code)
@@ -17,14 +15,6 @@
 ![Android Studio](http://img.shields.io/badge/-Android%20Studio-green?style=flat&logo=android-studio&logoColor=ffffff)
 ![X Code](http://img.shields.io/badge/-X%20Code-grey?style=flat&logo=xcode&logoColor=ffffff)
 
-## 🖋 Design
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 	
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JohnnyFdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=JohnnyFdev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyFdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 
