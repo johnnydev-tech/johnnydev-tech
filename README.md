@@ -1,6 +1,5 @@
-
-- Mobile Developer [![Site em desenvolvimento](https://img.shields.io/badge/-Portfolio-black)](https://johnnyfdev.github.io/johnnydev_page/)
-- UI Designer [![Portfolio](https://img.shields.io/badge/-Portfolio-black)](https://www.behance.net/gallery/103577747/UI-Drawing-to-Code)
+# <img width="60" src="https://i.ibb.co/hVG9sFF/logo-tech-12.png"/> Flutter Mobile Developer
+- Portfolio [![Portfolio](https://img.shields.io/badge/-Portfolio-black)](https://www.behance.net/gallery/103577747/UI-Drawing-to-Code)
 
 
 
