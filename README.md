@@ -1,9 +1,11 @@
 ### <img width="60" src="https://i.ibb.co/hVG9sFF/logo-tech-12.png">
-## Flutter Mobile Developer 
-# [![Portfolio](https://img.shields.io/badge/-Portfolio-black)](https://www.behance.net/gallery/103577747/UI-Drawing-to-Code)
+
+# `JOHNNY FREIRE | Flutter Mobile Developer `
 
 
-[![Site](http://img.shields.io/badge/-Site-007ACC?style=flat&logo=public)](https://johnnyfdev.com/)
+*Meu Site*
+[![site](https://github.com/Johnnyfdev/Johnnyfdev/assets/48037003/b87809c7-fcdc-47e5-9126-3fcdce74c743)](https://johnnyfdev.com/)
+
 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 
