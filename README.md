@@ -1,7 +1,7 @@
 
 ## `JOHNNY FREIRE |  Mobile Developer `
 
-#### Hi there, I'm Johnny Freire, a Mobile Developer from Brazil. I'm passionate about Mobile technlogies, didn't matter if it's Native or Cross-Platform, I love to create amazing apps that can help people in their daily life. Actually, I'm working as a Mobile/Web Tech Lead, and I'm always looking for new challenges and opportunities to learn and grow.
+Hi there, I'm Johnny Freire, a Mobile Developer from Brazil. I'm passionate about Mobile technlogies, didn't matter if it's Native or Cross-Platform, I love to create amazing that can help people in their daily life. Actually, I'm working as a Mobile/Web Tech Lead, and I'm always looking for new challenges and opportunities to learn and grow.
 
 ### 🛠️ Technologies & Tools:
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=Kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-%23FA7343.svg?style=for-the-badge&logo=Swift&logoColor=white) 
