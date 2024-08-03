@@ -1,5 +1,5 @@
 
-## `JOHNNY FREIRE |  Mobile Developer `
+## JOHNNY FREIRE |  Mobile Developer
 
 Hi there, I'm Johnny Freire, a Mobile Developer from Brazil. I'm passionate about Mobile technlogies, didn't matter if it's Native or Cross-Platform, I love to create amazing that can help people in their daily life. Actually, I'm working as a Mobile/Web Tech Lead, and I'm always looking for new challenges and opportunities to learn and grow.
 
